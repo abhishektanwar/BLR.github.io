@@ -1,4 +1,8 @@
-{
-	"productId": "123456789",
+[{
+	"productId": "12345",
 	"locationName": "Bengaluru"
-}
+},
+{
+	"productId": "6789",
+	"locationName": "Hyderabad"
+}]
