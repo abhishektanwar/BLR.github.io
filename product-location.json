@@ -1,8 +1,10 @@
 [{
 	"productId": "12345",
-	"locationName": "Bengaluru"
+	"locationName": "Bengaluru",
+	"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a"
 },
 {
 	"productId": "6789",
-	"locationName": "Hyderabad"
+	"locationName": "Hyderabad",
+	"cityId": "9c38028a-06ee-471c-8737-5224d955f5f8"
 }]
