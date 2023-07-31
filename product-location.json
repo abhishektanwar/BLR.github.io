@@ -1,16 +1,23 @@
-{
-	"519192d9-07dc-4671-9715-0f6a47a2190a": [{
-		"productId": "426b26ac-d000-482d-bbbb-d226650ca9c4",
-		"locationName": "Kuppalli"
-	}, {
-		"productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
-		"locationName": "Siddapur"
-	}],
-	"9c38028a-06ee-471c-8737-5224d955f5f8": [{
-		"productId": "e372b4dc-641a-401e-b545-58f9af97415e",
-		"locationName": "Medipally"
-	}, {
-		"productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
-		"locationName": "Singaram"
-	}]
-}
+[{
+		"cityId:": "519192d9-07dc-4671-9715-0f6a47a2190a",
+		"productsLocation": [{
+				"productId": "426b26ac-d000-482d-bbbb-d226650ca9c4",
+				"locationName": "Kuppalli"
+			},
+			{
+				"productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
+				"locationName": "Siddapur"
+			}
+		]
+	},
+	{
+		"cityId:": "519192d9-07dc-4671-9715-0f6a47a2190a",
+		"productsLocation": [{
+			"productId": "e372b4dc-641a-401e-b545-58f9af97415e",
+			"locationName": "Medipally"
+		}, {
+			"productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
+			"locationName": "Singaram"
+		}]
+	}
+]
