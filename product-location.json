@@ -1,15 +1,4 @@
-[{
-		"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
-		"productsLocation": [{
-				"productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
-				"locationName": "Kuppalli"
-			},
-			{
-				"productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
-				"locationName": "Siddapur"
-			}
-		]
-	},
+[
 	{
 		"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
 		"productsLocation": [{
