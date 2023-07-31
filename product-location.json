@@ -1,5 +1,5 @@
 [{
-		"cityId:": "519192d9-07dc-4671-9715-0f6a47a2190a",
+		"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
 		"productsLocation": [{
 				"productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
 				"locationName": "Kuppalli"
@@ -11,7 +11,7 @@
 		]
 	},
 	{
-		"cityId:": "519192d9-07dc-4671-9715-0f6a47a2190a",
+		"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
 		"productsLocation": [{
 			"productId": "e372b4dc-641a-401e-b545-58f9af97415e",
 			"locationName": "Medipally"
