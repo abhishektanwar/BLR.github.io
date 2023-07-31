@@ -1,88 +1,85 @@
-[
-  {
-    "cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
-    "productsLocation": [
-      {
-        "productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
-        "locationName": "Kuppalli",
-      },
-      {
-        "productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
-        "locationName": "Siddapur",
-      },
-      {
-        "productId": "f3bdade4-8a35-4725-9bce-5114f92b7dfc",
-        "locationName": "Mudigere",
-      },
-      {
-        "productId": "5b93ea44-406f-4be6-b451-e8b1ddbb34ec",
-        "locationName": "Belthangady",
-      },
-      {
-        "productId": "9482c1d7-d4e8-4269-b3e5-dd7aa07a7166",
-        "locationName": "Kundapur",
-      },
-      {
-        "productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
-        "locationName": "Mudigere",
-      },
-      {
-        "productId": "08d244e5-f044-4f57-a5da-fda10fc6d5c1",
-        "locationName": "Siruguppa",
-      },
-      {
-        "productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
-        "locationName": "Byadgi",
-      },
-      {
-        "productId": "e372b4dc-641a-401e-b545-58f9af97415e",
-        "locationName": "Someshwar",
-      },
-    ],
-  },
-  {
-    cityId: "9c38028a-06ee-471c-8737-5224d955f5f8",
-    productsLocation: [
-      {
-        "productId": "e372b4dc-641a-401e-b545-58f9af97415e",
-        "locationName": "Medipally",
-      },
-      {
-        "productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
-        "locationName": "Singaram",
-      },
-      {
-        "productId": "feb0d251-a71f-421e-b89e-e9a1b2c1710f",
-        "locationName": "Tadpakal",
-      },
-      {
-        "productId": "426b26ac-d000-482d-bbbb-d226650ca9c4",
-        "locationName": "Gollapalle",
-      },
-      {
-        "productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
-        "locationName": "Kothapalli",
-      },
-      {
-        "productId": "f3bdade4-8a35-4725-9bce-5114f92b7dfc",
-        "locationName": "Velgatoor",
-      },
-      {
-        "productId": "5b93ea44-406f-4be6-b451-e8b1ddbb34ec",
-        "locationName": "Pedduru",
-      },
-      {
-        "productId": "9482c1d7-d4e8-4269-b3e5-dd7aa07a7166",
-        "locationName": "Chintapalle",
-      },
-      {
-        "productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
-        "locationName": "Kodakandla",
-      },
-      {
-        "productId": "08d244e5-f044-4f57-a5da-fda10fc6d5c1",
-        "locationName": "Yellapur",
-      },
-    ],
-  },
+[{
+		"cityId": "519192d9-07dc-4671-9715-0f6a47a2190a",
+		"productsLocation": [{
+				"productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
+				"locationName": "Kuppalli"
+			},
+			{
+				"productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
+				"locationName": "Siddapur"
+			},
+			{
+				"productId": "f3bdade4-8a35-4725-9bce-5114f92b7dfc",
+				"locationName": "Mudigere"
+			},
+			{
+				"productId": "5b93ea44-406f-4be6-b451-e8b1ddbb34ec",
+				"locationName": "Belthangady"
+			},
+			{
+				"productId": "9482c1d7-d4e8-4269-b3e5-dd7aa07a7166",
+				"locationName": "Kundapur"
+			},
+			{
+				"productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
+				"locationName": "Mudigere"
+			},
+			{
+				"productId": "08d244e5-f044-4f57-a5da-fda10fc6d5c1",
+				"locationName": "Siruguppa"
+			},
+			{
+				"productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
+				"locationName": "Byadgi"
+			},
+			{
+				"productId": "e372b4dc-641a-401e-b545-58f9af97415e",
+				"locationName": "Someshwar"
+			}
+		]
+	},
+	{
+		"cityId": "9c38028a-06ee-471c-8737-5224d955f5f8",
+		"productsLocation": [{
+				"productId": "e372b4dc-641a-401e-b545-58f9af97415e",
+				"locationName": "Medipally"
+			},
+			{
+				"productId": "1c0c8232-24ea-4a67-89cc-1652e670ad00",
+				"locationName": "Singaram"
+			},
+			{
+				"productId": "feb0d251-a71f-421e-b89e-e9a1b2c1710f",
+				"locationName": "Tadpakal"
+			},
+			{
+				"productId": "426b26ac-d000-482d-bbbb-d226650ca9c4",
+				"locationName": "Gollapalle"
+			},
+			{
+				"productId": "2b03ecba-c2bc-43de-b5d7-9b7404fe60ee",
+				"locationName": "Kothapalli"
+			},
+			{
+				"productId": "f3bdade4-8a35-4725-9bce-5114f92b7dfc",
+				"locationName": "Velgatoor"
+			},
+			{
+				"productId": "5b93ea44-406f-4be6-b451-e8b1ddbb34ec",
+				"locationName": "Pedduru"
+			},
+			{
+				"productId": "9482c1d7-d4e8-4269-b3e5-dd7aa07a7166",
+				"locationName": "Chintapalle"
+			},
+			{
+				"productId": "feebb1e3-6696-44e3-84dc-46b98aa51655",
+				"locationName": "Kodakandla"
+			},
+			{
+				"productId": "08d244e5-f044-4f57-a5da-fda10fc6d5c1",
+				"locationName": "Yellapur"
+			}
+		]
+	}
 ]
